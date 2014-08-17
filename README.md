@@ -14,10 +14,11 @@ http://nbviewer.ipython.org/
 
 And it will generate a link for sharing the notebook, as well as a link to the github repo.
 
-(Try it: copy-paste the following link into the above viewer:
+- Try it: you can view the .ipynb file in this directory by navigating to:
 
-https://raw.githubusercontent.com/OpenWaterProject/ipython-notebooks/master/RiffleTest1.ipynb
-)
+http://nbviewer.ipython.org/github/OpenWaterProject/ipython-notebooks/blob/master/RiffleTest1.ipynb
+
+
 ### generating html from an ipython notebook
 
 Converting ipython notebooks to other formats is described [here](http://ipython.org/ipython-doc/1/interactive/nbconvert.html).
